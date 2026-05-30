@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Love
+
+This log tracks the cryptographic history and versioning for the song **Caught In Love** (caught-in-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T20:25:20.176005 | `v1` | `246c5fec8cb64d8fa81969c258a1f6e200680429e4e4656e43fc754e7581f135` | `e467e5e5ef755f0185cc5c376e45155e7da30097a344b380aed50f34cf00bce0` | `2026-05-30_caught-in-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

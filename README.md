@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caught In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-love/) |
+| **Get License** | [Secure Licensing Rights for Caught In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `246c5fec8cb64d8fa81969c258a1f6e200680429e4e4656e43fc754e7581f135` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
