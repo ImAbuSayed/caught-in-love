@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caught In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-love/) |
+| **Get License** | [Get License For Caught In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught in the gravity of your warm embrace
+> Lost in the quiet of this empty space
+> I want to hold you closer than the midnight air
+> Leaving my heart completely open, stripped and bare
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
